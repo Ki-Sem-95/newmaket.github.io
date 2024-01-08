@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .box{
+    width: 1400px;
+} */
+
+.top__about{
+    width: 900px;
+    margin-top: 100px;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left__foto{
+    width: 200px;
+    height: 200px;
+    border: 1px solid grey;
+    border-radius: 50%;
+    background-image: url(spongebob1.jpeg);
+    background-position: center top ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.right__about{
+    width: 300px;
+}
+
+.first__right{
+    text-align: left;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 25px;
+    padding-bottom: 10px;
+    color: #404040;
+}
+
+.second__right{
+    text-align: left;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 15px;
+    color: #404040;
+}
+
+.dive__line{
+    background-color: grey;
+    width: 1500px;
+    height: 0.5px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.job__info{
+    margin: auto;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(krustykrab1.png);
+}
+
+.center{
+    width: 1000px;
+    margin: auto;
+}
+
+.flex2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left__info{
+    width: 250px;
+    padding-top: 250px;
+    padding-bottom: 200px;
+    text-align: left;
+    font-family: 'Brush Script MT';
+    font-size: 35px;
+    color: black;
+}
+
+.right__info{
+    width: 250px;
+    padding-top: 250px;
+    padding-bottom: 200px;
+    text-align: left;
+    font-family: 'Brush Script MT';
+    font-size: 35px;
+    color: black;
+}
+
+.header{
+    font-size: 50px;
+    color: blueviolet;
+    font-family: monospace;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.container{
+    width: 900px;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.left__about{
+    width: 300px;
+}
+
+.right_foto1{
+    width: 100px;
+    height: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: 1px solid rgb(9, 9, 100);
+    border-radius: 50%;
+    background-image: url(darth.jpeg);
+    background-position: center top ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.right_foto2{
+    width: 100px;
+    height: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: 1px solid rgb(9, 9, 100);
+    border-radius: 50%;
+    background-image: url(homer-simpson.avif);
+    background-position: center top ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.A1{
+    text-align: left;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 25px;
+    padding-bottom: 10px;
+    color: #202020;
+}
+
+.A2{
+    text-align: left;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 15px;
+    color: #404040;
+    margin-bottom: 30px;
+}
+
+.left__part{
+    width: 300px;
+}
+
+.right__part{
+    width: 300px;
+}
