@@ -164,3 +164,38 @@
 .right__part{
     width: 300px;
 }
+
+.contacts{
+    width: 300px;
+    margin: auto;
+    border: 1px solid #303030;
+}
+
+.My__name{
+    text-align: center;
+    padding-top: 15px;
+    font-family: Arial;
+    font-size: 25px;
+    color: #292828;
+}
+
+.num{
+    text-align: center;
+    padding-top: 15px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 15px;
+    color: #404040;
+}
+
+.mail{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 15px;
+    color: #404040;
+}
+
+.mail1{
+    text-decoration: none; 
+}
