@@ -3,15 +3,34 @@
     padding: 0;
 }
 
+.box{
+    background-color: faffff;
+}
+
 /* .box{
     width: 1400px;
 } */
+
+.top__logo{
+    margin: auto;
+    margin-top: 25px;
+}
+
+.pic{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    background-image: url(Santole\ LOGO\ .jpg);
+    background-position: center top ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 .top__about{
     width: 900px;
     margin-top: 100px;
     margin: auto;
-    padding-top: 50px;
+    padding-top: 25px;
 }
 
 .flex{
@@ -105,70 +124,11 @@
     padding-bottom: 15px;
 }
 
-.container{
-    width: 900px;
-    margin: auto;
-    margin-top: 25px;
-}
-
-.left__about{
-    width: 300px;
-}
-
-.right_foto1{
-    width: 100px;
-    height: 100px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-    border: 1px solid rgb(9, 9, 100);
-    border-radius: 50%;
-    background-image: url(darth.jpeg);
-    background-position: center top ;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.right_foto2{
-    width: 100px;
-    height: 100px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-    border: 1px solid rgb(9, 9, 100);
-    border-radius: 50%;
-    background-image: url(homer-simpson.avif);
-    background-position: center top ;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.A1{
-    text-align: left;
-    font-family: Copperplate, Papyrus, fantasy;
-    font-size: 25px;
-    padding-bottom: 10px;
-    color: #202020;
-}
-
-.A2{
-    text-align: left;
-    font-family: "Courier New", Courier, monospace;
-    font-size: 15px;
-    color: #404040;
-    margin-bottom: 30px;
-}
-
-.left__part{
-    width: 300px;
-}
-
-.right__part{
-    width: 300px;
-}
-
 .contacts{
     width: 300px;
     margin: auto;
     border: 1px solid #303030;
+    margin-top: 100px;
 }
 
 .My__name{
